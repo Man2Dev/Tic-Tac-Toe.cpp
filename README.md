@@ -7,11 +7,11 @@ with two modes
 ## run compiled game:
 1. clone my repo:
 ````
-cd ~ && git clone git@github.com:Man2Dev/Basics-of-Computer-and-Programming-course.git
+cd ~ && git clone git@github.com:Man2Dev/Tic-Tac-Toe.cpp.git
 ````
 2. run
 ````
-.Basics-of-Computer-and-Programming-course/Tic\ Tac\ Toe/Tic-Tac-Toe.out
+.Tic-Tac-Toe.cpp/Tic-Tac-Toe.out
 ````
 
 ## compile it yourself on Linux
@@ -23,11 +23,11 @@ sudo dnf install gcc-c++
 ````
 1. clone my repo:
 ````
-cd ~ && git clone git@github.com:Man2Dev/Basics-of-Computer-and-Programming-course.git
+cd ~ && git clone git@github.com:Man2Dev/Tic-Tac-Toe.cpp.git
 ````
 2. compile the `cpp` file name `tic_tac_toe.cpp`:
 ````
- g++ ~/Basics-of-Computer-and-Programming-course/Tic\ Tac\ Toe/tic_tac_toe.cpp
+ g++ ~/Tic-Tac-Toe.cpp/tic_tac_toe.cpp
 ````
 3. run:
 ````
